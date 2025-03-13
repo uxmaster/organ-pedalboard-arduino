@@ -79,6 +79,9 @@ There are some things you may want to customize in the code:
 | ![](pictures/organ-set.jpg) | ![](pictures/pedalboard-back-open.jpg) |
 | --- | --- |
 
+In this case, the pedalboard's switches needed to be replaced, we used
+[microswitches with a long lever arm](https://www.amazon.com/JANDECCN-Switch-Straight-Action-V-153-1C25/dp/B09SWCJ8FF).
+
 ## Used at
 
 * [Seljumannenmesse](https://no.wikipedia.org/wiki/Seljumannamesse) in 2023
