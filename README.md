@@ -6,6 +6,12 @@ each pedal key has a switch) to a virtual organ, an digital organ module or
 program (like [Aeolus](https://kokkinizita.linuxaudio.org/linuxaudio/aeolus/),
 [Hauptwerk](https://hauptwerk.com/) or others).
 
+**If you want only an organ pedal keyboard without the buttons for stops,
+but with no dependencies (without shitty-documented MIDI library),
+or want to see a better mechanical solution, see:
+[Simple MIDI organ pedalboard](https://gitlab.com/uxmaster/midi-pedalboard).**
+
+
 ## List of materials
 
 * Pedalboard
